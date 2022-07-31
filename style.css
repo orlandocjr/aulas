@@ -1,0 +1,40 @@
+.classh1 {
+color: blue;
+font-family: 'Square Peg', cursive;
+background-color: rgb(235, 148, 148);
+}
+h2 {
+font-size: 50px;
+color: chartreuse;
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+.imgborder {
+border-width: 2px 5px 3px 2px;
+border-style: solid;
+border-color: black;
+border-radius: 50%;
+width: 400px;
+}
+#div1 {
+    background-color: gold;
+    font-size: 25px;
+    color: darkblue;
+    font-family: 'Square Peg', cursive;
+}
+#gatogrande {
+    
+padding: 5px;
+background-color: yellow;
+border-width: 0px 5px 7px 0px;
+border-style: solid;
+border-color: orange;
+width: 400px;
+}
+#tabela {
+    background-color: bisque;
+    border-collapse: collapse;
+    text-align: left;
+}
+body {
+    background-color: dodgerblue;
+}
